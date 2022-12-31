@@ -1,0 +1,88 @@
+.bt {
+  font-size: small;
+  padding: 10px;
+  font-weight: 500;
+}
+
+.navul {
+  font-size: small;
+}
+
+.img {
+  width: 10%;
+  height: 60px;
+
+}
+
+.slider {
+  width: 100%;
+  height: 80vh;
+}
+
+.about_img {
+  width: 90%;
+  border-radius: 2px;
+}
+
+.about_head {
+  font-weight: 700;
+  font-size: 900;
+}
+
+.para {
+  font-size: small;
+}
+
+.about {
+  background-color: lightblue;
+}
+
+.pcontainer {
+  background-color: lightgrey;
+}
+
+.btm {
+  width: 10%;
+}
+
+.cimg {
+  width: 100%;
+  height: 40vh;
+}
+
+.cardcontainer {
+  width: 70%;
+  height: 35vh;
+}
+
+.round {
+  border-radius: 10px;
+}
+
+.thead1 {
+  width: 30%;
+  text-indent: 10%;
+
+}
+
+.thead2 {
+  width: 30%;
+  text-indent: 60%;
+}
+
+.btm1 {
+  width: 80%;
+  letter-spacing: 0px;
+}
+
+.footerheading {
+  width: 70%;
+}
+
+.position {
+  position: relative;
+}
+
+.fs {
+  font-weight: 700;
+}
